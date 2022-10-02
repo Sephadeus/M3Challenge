@@ -4,7 +4,7 @@
 This project is a password generator. The purpose of this project was to utilize the interactivity of JavaScript to take user input gathered through a series of prompts, alerts, and confirmation windows to create a randomly generated password that conforms to the user's preferences.
 
 ## Visuals
-Check out the screenshot in the related Github repository or visiting this link here --> ![2022-10-02 12 09 11 127 0 0 1 ed5354c3658a](https://user-images.githubusercontent.com/90430093/193464448-e5e3bc81-7642-4b42-86d3-0fac363a8014.jpg)
+Check out the screenshot!![2022-10-02 12 09 11 127 0 0 1 ed5354c3658a](https://user-images.githubusercontent.com/90430093/193464448-e5e3bc81-7642-4b42-86d3-0fac363a8014.jpg)
 
 
 ## Installation
